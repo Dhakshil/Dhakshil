@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhakshil
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I’m interested in current Digital World called AI.
 - 🌱 I’m currently learning Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me reddydhakshil@gmail.com
